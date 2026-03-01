@@ -1,0 +1,5 @@
+tqdm
+python-magic
+lief
+capstone
+keystone

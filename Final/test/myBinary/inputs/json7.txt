@@ -1,0 +1,5 @@
+{
+  "total_len": 16,
+  "chunks": ["hello", "world"],
+  "meta": { "note": "safe seed" }
+}

@@ -1,0 +1,1 @@
+This is a normal ASCII plaintext line with numbers 12345 and symbols !?.

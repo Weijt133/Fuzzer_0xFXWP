@@ -1,0 +1,22 @@
+<html>
+    <head>
+        <title>xml5 safe example</title>
+        <link href="http://example.com/style.css" />
+    </head>
+
+    <body>
+        <h1>I'm still not a web developer :)</h1>
+        <p>Just some harmless content here.</p>
+    </body>
+
+    <div id="lol">
+        <a href="http://google.com">Here is some link...</a>
+    </div>
+
+    <footer>
+        <a href="http://bing.com">Footer link</a>
+    </footer>
+
+    <!-- xml5 only care contents here -->
+    <message>Hello from xml5 demo</message>
+</html>

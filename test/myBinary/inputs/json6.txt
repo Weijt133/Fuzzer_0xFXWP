@@ -1,0 +1,13 @@
+{
+  "meta": {
+    "title": "json6 safe seed",
+    "version": 1
+  },
+  "data": {
+    "id": "1234",
+    "name": "abcd",
+    "role": "user",
+    "flag": "ok",
+    "note": "short"
+  }
+}

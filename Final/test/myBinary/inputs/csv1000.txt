@@ -1,0 +1,4 @@
+name,role,dept,tag
+Alice,student,CS,S
+Bob,researcher,Math,ecr
+Carol,engineer,EE,et
